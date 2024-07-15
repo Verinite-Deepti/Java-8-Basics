@@ -1,8 +1,6 @@
 # Java 8 Basics
 
-Welcome to the Java 8 Basics repository!
-This README provides a concise overview of key features introduced in Java 8, including Optional, Streams, Collection API improvements, new Date and Time APIs, and more.
-
+Welcome to the Java 8 Basics repository! This README provides a concise overview of key features introduced in Java 8, including Optional, Streams, Collection API improvements, new Date and Time APIs, and more. It also includes assignments and a PDF.
 ## Optional
 
 `Optional` is a container object that may or may not hold a non-null value. It helps avoid null references by providing methods to:
